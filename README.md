@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning: Git, C#, TypeScript and JavaScript.
+- 🌱 I’m currently learning: Git, Go and rust inthe near future.
 - 🔭 I’m currently working on: A project to make a better Himnary for my church.
 - 🤓 Some of my interests are: Quantum computers/physics, boats/trains, singin/music.
 - ⚡ Fun fact: Everything falls with the same speed, no matter its weight. The only reason
